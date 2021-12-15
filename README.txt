@@ -1,11 +1,10 @@
-=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
+=:=:=:=:=:=:=:=:=:=:=:=:=
 SNAKE GAME by Wenxi Chen
-=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
+=:=:=:=:=:=:=:=:=:=:=:=:=
 
-Hi. For a final project, I used the concepts of collections, file I/O, inheritance,
-and JUnit to create a simple Snake game with Java Swing.
+Hi. For a final project, I used the concepts of collections, file I/O, inheritance/subtyping, and JUnit to create a simple Snake game with Java Swing.
 
-The general idea and rules behind this game are explained in instructions.jpg.
+The general idea and rules behind this game are explained in instructions.jpg. I will also add them below:
 
 "Welcome to Snake. You get to control a snake.
 
@@ -22,9 +21,9 @@ or it will die and your game will be over.
 
 Click RESET to start, and have fun!"
 
-  ==================================
-  Tutorials/Guides Used For Creation
-  ==================================
+  ===========
+  Guides Used
+  ===========
 
   BufferedImage usage - https://docs.oracle.com/javase/7/docs/api/java/awt/image/BufferedImage.html
   Color usage - https://docs.oracle.com/javase/7/docs/api/java/awt/Color.html
@@ -39,7 +38,7 @@ Click RESET to start, and have fun!"
   - https://alvinalexander.com/blog/post/jfc-swing/swing-faq-list-fonts-current-platform/
 
   =============
-  Images Credit
+  Image Credits
   =============
 
   apple.png, goldenapple.png, gameover.jpg and instructions.jpg were created by me :~)
