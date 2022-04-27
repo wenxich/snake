@@ -5,20 +5,20 @@ Hi. For a final project, I used the concepts of collections, file I/O, inheritan
 
 The general idea and rules behind this game are explained in instructions.jpg. I will also add them below:
 
-"Welcome to Snake. You get to control a snake.
-
-Use the [LEFT] [UP] [RIGHT] [DOWN] keys to move your snake.
-
-RED apples will make your snake grow longer.
+> "Welcome to Snake. You get to control a snake.
+>
+> Use the [LEFT] [UP] [RIGHT] [DOWN] keys to move your snake.
+>
+> RED apples will make your snake grow longer.
 Collecting them will give you 1 point each.
-
-GOLDEN apples will make your snake move faster.
+>
+> GOLDEN apples will make your snake move faster.
 Collecting them will give you 5 points each.
-
-Try not to let your snake hit a wall or itself,
+>
+> Try not to let your snake hit a wall or itself,
 or it will die and your game will be over.
-
-Click RESET to start, and have fun!"
+>
+> Click RESET to start, and have fun!"
 
 Guides Used
 =============
