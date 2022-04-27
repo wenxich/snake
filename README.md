@@ -1,4 +1,4 @@
-SNAKE GAME by Wenxi Chen
+Snake!
 =============
 
 Hi. For a final project, I used the concepts of collections, file I/O, inheritance/subtyping, and JUnit to create a simple Snake game with Java Swing.
