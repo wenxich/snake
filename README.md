@@ -21,7 +21,7 @@ or it will die and your game will be over.
 > Click **RESET** to start, and have fun!"
 
 Guides Used
-=============
+---------------
 
 - BufferedImage usage - https://docs.oracle.com/javase/7/docs/api/java/awt/image/BufferedImage.html
 - Color usage - https://docs.oracle.com/javase/7/docs/api/java/awt/Color.html
@@ -35,6 +35,6 @@ Guides Used
 - List of fonts that can be used by Java Swing - https://alvinalexander.com/blog/post/jfc-swing/swing-faq-list-fonts-current-platform/
 
 Image Credits
-=============
+---------------
 
-  apple.png, goldenapple.png, gameover.jpg and instructions.jpg were created by me :~)
+apple.png, goldenapple.png, gameover.jpg and instructions.jpg were created by me :~)
